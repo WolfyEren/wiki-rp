@@ -2,7 +2,7 @@
 
 <body>
 <link rel="stylesheet" href="main.css">
-<head>
+
 
 
 <ul>
@@ -19,8 +19,17 @@
     
     
     
-</head>
 
 </body>
     
 </html>
+
+<p><a href="/temp.html"></a></p>
+
+<img src="">
+<p>Full Name:</p>
+<p>Nicknames:</p>
+<p>Age:</p>
+<p>Race:</p>
+<p>Title:</p>
+<p>Appearance:</p>
