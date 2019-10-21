@@ -16,7 +16,7 @@
     <div class="dropdown-content">
       <a href="protagonists.html">Protagonists</a>
       <a href="antagonists.html">Antagonists</a>
-      <a href="#">Neutralists</a>
+      <a href="temp.html">Neutralists</a>
     </div>
   </li>
   <li><a href="Plots.html"></a>Plots</li>
@@ -31,10 +31,15 @@
 
 <p><a href="/temp.html"></a></p>
 
+<h1></h1>
 <img src="">
 <p>Full Name:</p>
 <p>Nicknames:</p>
 <p>Age:</p>
 <p>Race:</p>
 <p>Title:</p>
-<p>Appearance:</p>
+<p>Current Appearance:</p>
+<p>Hobbies</p>
+<p>Skills</p>
+<p>Strengths</p>
+<p>Weaknesses</p>
