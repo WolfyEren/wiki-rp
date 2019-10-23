@@ -1,8 +1,9 @@
 body {
-  background-image: url("/images/discord.PNG");
+  background-image: url("images/campfire_background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+  background-size: 100% 100%;
 }
 
 ul {
