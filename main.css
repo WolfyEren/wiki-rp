@@ -35,6 +35,11 @@ li.dropdown {
   display: inline-block;
 }
 
+.text {
+    color:white
+
+}
+
 .active {
     background-color:white;
     color:black;
