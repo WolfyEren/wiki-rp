@@ -26,16 +26,17 @@
   <li><a href="Plots.html">Plots</a></li>  
   <li class="dropdown"> <a class="active" class="dropbtn">Characters</a>
     <div class="dropdown-content">
-      <a class="active" href="protagonists.html">Protagonists</a>
+      <a href="protagonists.html">Protagonists</a>
       <a href="antagonists.html">Antagonists</a>
       <a href="neutralists.html">Neutralists</a>
     </div>
   </li>
+  <li><a href="Lore.html">Lore</a></li>
 
 </ul>   
     
 <h1></h1>
-<img src="">
+<img src="images/">
 <p>Full Name:</p>
 <p>Nicknames:</p>
 <p>Age:</p>
@@ -46,6 +47,8 @@
 <p>Skills:</p>
 <p>Strengths:</p>
 <p>Weaknesses:</p>   
+<p>Likes:</p>
+<p>Dislikes:</p>
     
 <h2>Biography</h2>
 <p></p>
@@ -99,6 +102,7 @@
       <a href="neutralists.html">Neutralists</a>
     </div>
   </li>
+  <li><a href="Lore.html">Lore</a></li>
 
 </ul>    
  
